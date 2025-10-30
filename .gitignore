@@ -1,0 +1,16 @@
+*.tar.gz
+*.zip
+*.gz
+*.log
+*.tmp
+*.bak
+*.csv
+
+NOT DONE/
+Done/
+inprogress/
+errors/
+
+__pycache__/
+*.pyc
+*.pyo
