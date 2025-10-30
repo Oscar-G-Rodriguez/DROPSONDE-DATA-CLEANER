@@ -6,6 +6,8 @@
 *.bak
 *.csv
 
+DATA/**/*      
+!DATA/**/.gitkeep  
 
 
 __pycache__/
